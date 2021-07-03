@@ -1,0 +1,9 @@
+credential.helper=!aws codecommit credential-helper $@
+credential.usehttppath=true
+core.editor=nano
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=git@github.com:osara22/ruby_on_rails_practice.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
